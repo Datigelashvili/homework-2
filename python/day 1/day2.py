@@ -1,0 +1,1 @@
+print("my frends are badri tabadadze luka kapnadze and more")
